@@ -1,3 +1,3 @@
 # helloworld
 
-This is the source code for the quickstart.
+This is the source code for the quickstart helloworld tutorial.
