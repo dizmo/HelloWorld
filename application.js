@@ -17,7 +17,7 @@ dizmo.onShowFront(function() {
 });
 
 document.addEventListener('dizmoready', function() {
-    DizmoElements('.done-btn').on('click',function({
+    DizmoElements('.done-btn').on('click',function(){
         showFront();
     });
 });
